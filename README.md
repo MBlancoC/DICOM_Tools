@@ -15,7 +15,7 @@ En la carpeta "Script Python IA" se encuentran dos subcarpetas que contienen scr
 
 ### Autoencoders
 
-Dentro de la carpeta, en el archivo [`Autoencoders.ipynb`](`Script_Python_IA/autoencoders/Autoencoders.ipynb`) se encuentran los análisis realizados con los clasificadores SVM (Support Vector Machines), LDA (Linear Discriminant Analysis), GNB (Gaussian Naive Bayes), Decision Trees, y Regresión Logística.
+Dentro de la carpeta, en el archivo [`Autoencoders.ipynb`](`Script_Python_IA/autoencoders/code/Autoencoders.ipynb`) se encuentran los análisis realizados con los clasificadores SVM (Support Vector Machines), LDA (Linear Discriminant Analysis), GNB (Gaussian Naive Bayes), Decision Trees, y Regresión Logística.
 
 Además, esta carpeta incluye las definiciones de las clases `myAutoencoder()` y `myAutoencoder_fine_tuning()`, que contienen la arquitectura específica del autoencoder y los métodos de fine-tuning, respectivamente.
 
