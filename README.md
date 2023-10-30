@@ -11,13 +11,13 @@ Este repositorio contiene una serie de utilidades para procesar imágenes DICOM 
 
 ## Script Python IA
 
-En la carpeta "Script Python IA" se encuentran dos subcarpetas importantes que contienen scripts y módulos para el análisis y procesamiento.
+En la carpeta "Script Python IA" se encuentran dos subcarpetas que contienen scripts y módulos para el análisis y procesamiento.
 
 ### Autoencoders
 
-Dentro de la carpeta "Autoencoders", encontrarás los análisis realizados con varios clasificadores como SVM (Support Vector Machines), LDA (Linear Discriminant Analysis), GNB (Gaussian Naive Bayes), Decision Trees, y Regresión Logística.
+Dentro de la carpeta "Autoencoders", se encuentran los análisis realizados con los clasificadores SVM (Support Vector Machines), LDA (Linear Discriminant Analysis), GNB (Gaussian Naive Bayes), Decision Trees, y Regresión Logística.
 
-Además, esta carpeta incluye las definiciones de las clases `myAutoencoder()` y `myAutoencoder_fine_tuning()`, que contienen la arquitectura específica del autoencoder y los métodos fine-tuning, respectivamente.
+Además, esta carpeta incluye las definiciones de las clases `myAutoencoder()` y `myAutoencoder_fine_tuning()`, que contienen la arquitectura específica del autoencoder y los métodos de fine-tuning, respectivamente.
 
 ### Models
 
